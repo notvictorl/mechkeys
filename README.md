@@ -1,4 +1,4 @@
-Forked from @titaniumnetwork-dev   Deprecated AlloyProxy
+
 
 `npm install`
 
